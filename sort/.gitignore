@@ -1,5 +1,5 @@
 /target/
 
-/sort/.settings/*
-/sort/.project
-/sort/.classpath
+/.settings/
+/.project
+/.classpath
