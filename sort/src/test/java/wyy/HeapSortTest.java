@@ -17,7 +17,7 @@ public class HeapSortTest {
 		}
 		
 		for (int i = 0; i < data.length; i++) {
-			assertEquals(data[i].intValue(), i);			
+			assertEquals(i, data[i].intValue());			
 		}
 	}
 
